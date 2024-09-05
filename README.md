@@ -18,22 +18,22 @@ Recommendations
  suggest new movies to users for rent or purchase.
 ## Results  
 **Spider-Man 2 :**                                                                                  
-Spider-Man 3
-Spider-Man
-The Amazing Spider-Man
-Iron Man 2
+Spider-Man 3,
+Spider-Man,
+The Amazing Spider-Man,
+Iron Man 2,
 Superman                                                                                            
 **The Dark Knight Rises:**                                                                          
-The Dark Knight
-Batman Returns
-Batman
-Batman Forever
+The Dark Knight,
+Batman Returns,
+Batman,
+Batman Forever,
 Batman Begins                                                                                       
 **The Lego Movie:**                                                                                 
-Curious George
-Percy Jackson: Sea of Monsters
-The Adventures of Rocky & Bullwinkle
-Penguins of Madagascar
+Curious George,
+Percy Jackson: Sea of Monsters,
+The Adventures of Rocky & Bullwinkle,
+Penguins of Madagascar,
 The Croods
 ## References  
 [TMDB Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
